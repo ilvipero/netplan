@@ -28,6 +28,7 @@ matching-interface-by-mac-address
 creating-link-aggregation
 dbus-config
 netplan-everywhere
+multi-nic-vm-host-with-bonds-and-vlans
 ```
 
 
